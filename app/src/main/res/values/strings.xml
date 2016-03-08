@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CreativeLesson</string>
+    <string name="science">Science</string>
+    <string name="fun">Fun</string>
+    <string name="experiment">Experiment</string>
+    <string name="technology">Technology</string>
+    <string name="popular">Popular</string>
+
+
+
+</resources>
