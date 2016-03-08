@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private Button experiment_button;
     private Button fun_button;
     private Button popular_button;
+
     private Button technology_button;
 
     @Override
